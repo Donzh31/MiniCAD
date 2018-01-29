@@ -1,4 +1,4 @@
-# MiniCAD
+## MiniCAD
 * A  Java Class Homework for a CAD drawing tools.
 ## The basic functions:
 * draw line, circle, rectangle, text ! 
